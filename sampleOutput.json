@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Canada wildfire: Firefighter dies tackling British Columbia blaze",
+            "description": "An evacuation order is in place for towns near the US border as fires there swirl out of control.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66352768",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/20B0/production/_130586380_fb3709e46112dd712483e2bb6fc86bb810508c91.jpg",
+            "publishedAt": "2023-07-30T09:07:19.5618812Z",
+            "content": "A third firefighter has died in Canada while battling the country's worst wildfire season on record.\r\nAuthorities say the firefighter died tackling the Donnie Creek fire near Fort St John, in the wes… [+2060 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "WeChat: Why does Elon Musk want X to emulate China's everything-app?",
+            "description": "Musk is an admirer of Chinese mega-app WeChat, which combines messaging, social media, finances, dating, and more.",
+            "url": "http://www.bbc.co.uk/news/business-66333633",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6D47/production/_130557972_gettyimages-1499013036.jpg",
+            "publishedAt": "2023-07-30T08:22:19.7019454Z",
+            "content": "Earlier this week Elon Musk rebranded Twitter to X - another step in his plan to emulate Chinese mega app WeChat.\r\nMr Musk has long said that he wants to transform his social media firm, which he bou… [+5093 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },  
+            "author": "BBC News",
+            "title": "Europe fires: How Canadair pilots battle the Mediterranean blazes",
+            "description": "Water bombers have become a cornerstone of the fight – but flying them requires courage and skill.",
+            "url": "http://www.bbc.co.uk/news/world-europe-66349785",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/51C0/production/_130582902_g2.jpg",
+            "publishedAt": "2023-07-30T08:22:18.2023191Z",
+            "content": "\"I hear the Canadairs before I see them. When I do, I know there's a wildfire somewhere very near,\" Adriana says. \r\nShe lives in Terrasini, near Sicily's capital Palermo. It's a beautiful part of the… [+7304 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Why it's getting easier to be a single mum in China",
+            "description": "How rule changes and financial independence is helping unmarried women to keep their babies.",
+            "url": "http://www.bbc.co.uk/news/world-asia-china-66064589",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3845/production/_130250441_meili2.jpg",
+            "publishedAt": "2023-07-30T08:22:16.7183129Z",
+            "content": "Until last year it was not really possible for most unmarried women to become mothers in China - practically speaking. But a social change is under way and it is driving shifts in policy too.\r\nIn her… [+9070 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Moscow drone attack briefly shuts Vnukovo airport",
+            "description": "Russian officials say one person has been injured after two drones crashed into offices",
+            "url": "http://www.bbc.co.uk/news/world-europe-66352765",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10016/production/_130585556_moscowdroneattack.png",
+            "publishedAt": "2023-07-30T06:37:17.8436861Z",
+            "content": "Russia has accused Ukraine of a drone attack on Moscow that damaged two buildings and briefly shut one of the city's airports. \r\nA drone was shot down over the Odintsovo district, west of the city ce… [+1353 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: Putin says Russia does not reject peace talks",
+            "description": "Kyiv and Moscow have previously said they will not negotiate without certain preconditions.",
+            "url": "http://www.bbc.co.uk/news/world-europe-66351867",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12078/production/_130584837_a6e7b3c4f8461dc6680663eaf43da9def158a3f90_70_5386_30301000x563.jpg",
+            "publishedAt": "2023-07-30T00:52:19.5309311Z",
+            "content": "Russian President Vladimir Putin has said he does not reject the idea of peace talks on Ukraine.\r\nSpeaking after meeting African leaders in St Petersburg, he said an African peace initiative as well … [+2338 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Heatwave: How hot is too hot for the human body?",
+            "description": "James Gallagher spends the day in the heat lab to see what summer heatwaves do to the body.",
+            "url": "http://www.bbc.co.uk/news/health-66249805",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0958/production/_130429320_pxl_20230612_114838051.portrait.jpg",
+            "publishedAt": "2023-07-29T23:37:15.9680093Z",
+            "content": "Sometimes it can feel like the world is on fire. \r\nEurope has been baking in a heatwave nicknamed the settimana infernale - \"week of hell\" - in Italy. Temperatures above 50C have been recorded in Chi… [+8317 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "US nurse and child kidnapped in Haiti, says charity",
+            "description": "The US State Department is aware of reports and is in 'regular contact' with Haitian authorities.",
+            "url": "http://www.bbc.co.uk/news/world-latin-america-66351887",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/143A0/production/_130584828_2023-07-28t025336z_2045038297_rc2ia2a9bbiw_rtrmadp_3_usa-haiti.jpg",
+            "publishedAt": "2023-07-29T23:37:14.4996261Z",
+            "content": "An American nurse and her child have been kidnapped in Haiti, according to a Christian aid charity she worked for.\r\nAlix Dorsainvil was working in a community ministry near Port-au-Prince when she wa… [+1548 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Judge dismisses Donald Trump's 'Big Lie' lawsuit against CNN",
+            "description": "Mr Trump alleged that the US cable network's use of the phrase likened him to Adolf Hitler.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66349078",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/574C/production/_130584322_31c2da3c5143d7bea6dc94dbbbd11eac171370350_0_2959_19731000x667.jpg",
+            "publishedAt": "2023-07-29T19:07:22.1400572Z",
+            "content": "A federal judge has thrown out a $475m (£369m) defamation lawsuit brought by Donald Trump against CNN for allegedly likening him to Adolf Hitler.\r\nThe US cable network described Mr Trump's unsubstant… [+2133 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Rivals' silence at Iowa dinner shows Trump's dominance in 2024 race",
+            "description": "At key Iowa dinner only one Republican opponent challenged Trump head on - and he was roundly booed.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66350225",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/151A6/production/_130583468_gettyimages-1561265789.jpg",
+            "publishedAt": "2023-07-29T15:22:20.1040779Z",
+            "content": "On the night a dozen of Donald Trump's Republican rivals spoke at the same event in Iowa, only one challenged the former president head on - and he was roundly booed. It highlights the grip Mr Trump … [+4968 chars]"
+        }
+    ]
+}
